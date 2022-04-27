@@ -1,6 +1,4 @@
-/*
- * Class that holds sets for training and testing, includes methods for control of a set
- */
+
 
 import java.util.ArrayList;
 import java.util.Random;
